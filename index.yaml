@@ -3,11 +3,11 @@ entries:
   cloudcasa-app:
   - apiVersion: v2
     appVersion: 0.1.248
-    created: "2020-12-06T16:44:47.299762762+05:30"
+    created: "2020-12-06T17:27:58.717780848+05:30"
     description: Helm chart for Kubernetes to register cloudcasa Kubeagent
     digest: 222d8ba1f16c653acb979d8dad198a34160a1a15eadd903595dd7f2dad23ba64
     name: cloudcasa-app
     urls:
     - https://github.com/catalogicsoftware/cloudcasa-helm/releases/download/cloudcasa-app-0.1.248/cloudcasa-app-0.1.248.tgz
     version: 0.1.248
-generated: "2020-12-06T16:44:46.901862319+05:30"
+generated: "2020-12-06T17:27:58.272683204+05:30"
