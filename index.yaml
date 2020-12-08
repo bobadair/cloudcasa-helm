@@ -3,7 +3,7 @@ entries:
   cloudcasa-app:
   - apiVersion: v2
     appVersion: 0.1.248
-    created: "2020-12-08T16:54:09.702444719+05:30"
+    created: "2020-12-08T17:14:34.944996665+05:30"
     description: Helm chart for Kubernetes to register cloudcasa Kubeagent
     digest: 222d8ba1f16c653acb979d8dad198a34160a1a15eadd903595dd7f2dad23ba64
     name: cloudcasa-app
@@ -13,14 +13,26 @@ entries:
   cloudcasa-kubeagent:
   - apiVersion: v2
     appVersion: 0.1.0-rc.265
-    created: "2020-12-08T16:54:09.963943995+05:30"
+    created: "2020-12-08T17:14:35.512631814+05:30"
     description: Register a client Kubernetes cluster to cloudcasa by running a kubeagent
       on Client cluster.
-    digest: 78f5b9112eb3ce57309c511064abb5411845ab1527e6c44fe99a3c5c0a2455d3
+    digest: f8f4d55aebcd317964a7c8be5586bd83f3109890461f2794b15d19941dec3df3
     maintainers:
     - name: Catalogicsoftware
     name: cloudcasa-kubeagent
     urls:
     - https://github.com/catalogicsoftware/cloudcasa-helm/releases/download/cloudcasa-kubeagent-0.1.0-rc.265/cloudcasa-kubeagent-0.1.0-rc.265.tgz
     version: 0.1.0-rc.265
-generated: "2020-12-08T16:54:09.302892311+05:30"
+  - apiVersion: v2
+    appVersion: 0.1.0-rc.248
+    created: "2020-12-08T17:14:35.203890009+05:30"
+    description: Register a client Kubernetes cluster to cloudcasa by running a kubeagent
+      on Client cluster.
+    digest: 1d2546b6b7cc4ce4c08dcb22fd818b0f90ab471e5383731c0a6957d42e9d206a
+    maintainers:
+    - name: Catalogicsoftware
+    name: cloudcasa-kubeagent
+    urls:
+    - https://github.com/catalogicsoftware/cloudcasa-helm/releases/download/cloudcasa-kubeagent-0.1.0-rc.248/cloudcasa-kubeagent-0.1.0-rc.248.tgz
+    version: 0.1.0-rc.248
+generated: "2020-12-08T17:14:34.510171833+05:30"
