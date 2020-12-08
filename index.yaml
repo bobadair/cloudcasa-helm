@@ -3,7 +3,7 @@ entries:
   cloudcasa-app:
   - apiVersion: v2
     appVersion: 0.1.248
-    created: "2020-12-06T17:27:58.717780848+05:30"
+    created: "2020-12-08T16:46:14.029327787+05:30"
     description: Helm chart for Kubernetes to register cloudcasa Kubeagent
     digest: 222d8ba1f16c653acb979d8dad198a34160a1a15eadd903595dd7f2dad23ba64
     name: cloudcasa-app
@@ -13,31 +13,7 @@ entries:
   cloudcasa-kubeagent:
   - apiVersion: v2
     appVersion: 0.1.0-rc.265
-    created: "2020-12-08T15:58:40.146497642+05:30"
-    description: Register a client Kubernetes cluster to cloudcasa by running a kubeagent
-      on Client cluster.
-    digest: 1f1ff501d0ffd5e7ec03c9b82650dcbe66b169d7d5f563bc59bb7c75de813b83
-    maintainers:
-    - name: Catalogicsoftware
-    name: cloudcasa-kubeagent
-    urls:
-    - https://github.com/catalogicsoftware/cloudcasa-helm/releases/download/cloudcasa-kubeagent-0.1.0-rc.265/cloudcasa-kubeagent-0.1.0-rc.265.tgz
-    version: 0.1.0-rc.265
-  - apiVersion: v2
-    appVersion: 0.1.0-rc.265
-    created: "2020-12-08T16:34:40.058288255+05:30"
-    description: Register a client Kubernetes cluster to cloudcasa by running a kubeagent
-      on Client cluster.
-    digest: 001f9e9832466101a8d06f3a248977017c716cee37374ff1a6ba81a219c3a4c0
-    maintainers:
-    - name: Catalogicsoftware
-    name: cloudcasa-kubeagent
-    urls:
-    - https://github.com/catalogicsoftware/cloudcasa-helm/releases/download/cloudcasa-kubeagent-0.1.0-rc.265/cloudcasa-kubeagent-0.1.0-rc.265.tgz
-    version: 0.1.0-rc.265
-  - apiVersion: v2
-    appVersion: 0.1.0-rc.265
-    created: "2020-12-08T16:43:50.184056959+05:30"
+    created: "2020-12-08T16:46:14.441023979+05:30"
     description: Register a client Kubernetes cluster to cloudcasa by running a kubeagent
       on Client cluster.
     digest: 59114d8737c27137d4568bf6669c78a065748481bdc45e13fe9e6535cd958c63
@@ -47,4 +23,4 @@ entries:
     urls:
     - https://github.com/catalogicsoftware/cloudcasa-helm/releases/download/cloudcasa-kubeagent-0.1.0-rc.265/cloudcasa-kubeagent-0.1.0-rc.265.tgz
     version: 0.1.0-rc.265
-generated: "2020-12-06T17:27:58.272683204+05:30"
+generated: "2020-12-08T16:46:13.615768489+05:30"
