@@ -13,7 +13,7 @@ This chart bootstraps a kube-agent deployment on a client Kuberntes [Kubernetes]
 ```
 1. helm repo add cloudcasa https://nitishdsharma.github.io/cloudcasa-helm
 2. helm search repo cloudcasa
-3. helm install <release name> cloudcasa/cloudcasa-app -f values.yaml
+3. helm install <release name> cloudcasa/cloudcasa-kubeagent -f values.yaml
 ```
 - Helmchart hosted on Rancher Apps
 
